@@ -1,4 +1,6 @@
 const CopyWebpackPlugin = require('copy-webpack-plugin')
+const crypto = require('crypto')
+const fs = require('fs')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const path = require('path')
 const webpack = require('webpack')
@@ -39,6 +41,14 @@ module.exports = {
     }),
     new webpack.DefinePlugin({
       __BUILD_DATE__: JSON.stringify(new Date().toISOString().slice(0, 10)),
+      // Changes the gear data URL whenever its content changes, so browsers don't use a stale cache
+      __GEAR_VERSION__: JSON.stringify(
+        crypto
+          .createHash('md5')
+          .update(fs.readFileSync('./src/data/gear.json'))
+          .digest('hex')
+          .slice(0, 8),
+      ),
     }),
     new CopyWebpackPlugin({
       patterns: [
@@ -48,7 +58,7 @@ module.exports = {
     }),
   ],
   output: {
-    filename: 'main.js',
+    filename: 'main.[contenthash:8].js',
     path: path.resolve(__dirname, 'dist'),
     assetModuleFilename: 'image/icon/[name][ext][query]',
   },

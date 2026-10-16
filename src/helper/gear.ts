@@ -6,6 +6,9 @@ export const GEAR_COLLECTION_IDS = [5, 6]
 
 const WIKI_URL = 'https://terraria.wiki.gg/wiki'
 
+// @ts-ignore
+const GEAR_VERSION = __GEAR_VERSION__
+
 export const wikiLink = (name: string): string =>
   `${WIKI_URL}/${encodeURIComponent(name.replace(/ /g, '_'))}`
 
@@ -22,7 +25,7 @@ export function useGearData(): { data: GearData | null; failed: boolean } {
   useEffect(() => {
     let active = true
     if (!gearRequest) {
-      gearRequest = fetch('data/gear.json').then((response) => {
+      gearRequest = fetch(`data/gear.json?v=${GEAR_VERSION}`).then((response) => {
         if (!response.ok) throw new Error(`HTTP ${response.status}`)
         return response.json()
       })
