@@ -345,10 +345,13 @@ function formatEnvironment(environment) {
     .join(', ')
 }
 
+// A sentence ends with punctuation followed by a space, so "12.5%" and "e.g." do not split it
+const SENTENCE = /.+?(?:(?<!\be\.g|\bi\.e)[.!?:]+(?=\s|$)|$)/g
+
 // Keeps the first paragraph of a wiki page intro, up to a few sentences
 function summarize(extract, maxLength = 520) {
   const paragraph = (extract ?? '').trim().split('\n')[0].trim()
-  const sentences = paragraph.match(/[^.!?:]+(?:[.!?:]+(?=\s|$)|$)/g) ?? [paragraph]
+  const sentences = paragraph.match(SENTENCE) ?? [paragraph]
   let text = ''
   for (const sentence of sentences) {
     // A sentence ending with a colon introduces a list that is not part of the intro
@@ -381,7 +384,7 @@ function describeSource(source, environmentsByNpc) {
   return undefined
 }
 
-const firstSentence = (text) => (text.match(/^.*?[.!?](?=\s|$)/) ?? [text])[0]
+const firstSentence = (text) => text.match(SENTENCE)?.[0].trim() ?? text
 
 const imageFileName = (name, url) =>
   `${name.replace(/[^\w-]+/g, '_')}${path.extname(new URL(url).pathname).toLowerCase() || '.png'}`
