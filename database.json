@@ -1742,6 +1742,3312 @@
           "name": "Yoraiz0r's set"
         }
       ]
+    },
+    {
+      "id": 5,
+      "label": "Weapons",
+      "slug": "weapons",
+      "background": "#8c3b2e",
+      "items": [
+        "⚔️ Melee · Pre-Hardmode",
+        {
+          "id": 5284,
+          "name": "Ash Wood Sword"
+        },
+        {
+          "id": 2745,
+          "name": "Boreal Wood Sword"
+        },
+        {
+          "id": 881,
+          "name": "Cactus Sword"
+        },
+        {
+          "id": 3508,
+          "name": "Copper Broadsword"
+        },
+        {
+          "id": 3507,
+          "name": "Copper Shortsword"
+        },
+        {
+          "id": 653,
+          "name": "Ebonwood Sword"
+        },
+        {
+          "id": 3520,
+          "name": "Gold Broadsword"
+        },
+        {
+          "id": 3519,
+          "name": "Gold Shortsword"
+        },
+        {
+          "id": 4,
+          "name": "Iron Broadsword"
+        },
+        {
+          "id": 6,
+          "name": "Iron Shortsword"
+        },
+        {
+          "id": 3496,
+          "name": "Lead Broadsword"
+        },
+        {
+          "id": 3495,
+          "name": "Lead Shortsword"
+        },
+        {
+          "id": 2517,
+          "name": "Palm Wood Sword"
+        },
+        {
+          "id": 3484,
+          "name": "Platinum Broadsword"
+        },
+        {
+          "id": 3483,
+          "name": "Platinum Shortsword"
+        },
+        {
+          "id": 656,
+          "name": "Rich Mahogany Sword"
+        },
+        {
+          "id": 921,
+          "name": "Shadewood Sword"
+        },
+        {
+          "id": 1786,
+          "name": "Sickle"
+        },
+        {
+          "id": 3514,
+          "name": "Silver Broadsword"
+        },
+        {
+          "id": 3513,
+          "name": "Silver Shortsword"
+        },
+        {
+          "id": 5687,
+          "name": "Slime Spear"
+        },
+        {
+          "id": 280,
+          "name": "Spear"
+        },
+        {
+          "id": 3502,
+          "name": "Tin Broadsword"
+        },
+        {
+          "id": 3501,
+          "name": "Tin Shortsword"
+        },
+        {
+          "id": 3490,
+          "name": "Tungsten Broadsword"
+        },
+        {
+          "id": 3489,
+          "name": "Tungsten Shortsword"
+        },
+        {
+          "id": 24,
+          "name": "Wooden Sword"
+        },
+        {
+          "id": 3278,
+          "name": "Wooden Yoyo"
+        },
+        {
+          "id": 1304,
+          "name": "Zombie Arm"
+        },
+        {
+          "id": 3280,
+          "name": "Artery"
+        },
+        {
+          "id": 162,
+          "name": "Ball O' Hurt"
+        },
+        {
+          "id": 795,
+          "name": "Blood Butcherer"
+        },
+        {
+          "id": 198,
+          "name": "Blue Phaseblade"
+        },
+        {
+          "id": 186,
+          "name": "Breathing Reed"
+        },
+        {
+          "id": 1909,
+          "name": "Candy Cane Sword"
+        },
+        {
+          "id": 1325,
+          "name": "Chain Knife"
+        },
+        {
+          "id": 55,
+          "name": "Enchanted Boomerang"
+        },
+        {
+          "id": 5012,
+          "name": "Flaming Mace"
+        },
+        {
+          "id": 1918,
+          "name": "Fruitcake Chakram"
+        },
+        {
+          "id": 4463,
+          "name": "Gladius"
+        },
+        {
+          "id": 4711,
+          "name": "Gravedigger's Shovel"
+        },
+        {
+          "id": 200,
+          "name": "Green Phaseblade"
+        },
+        {
+          "id": 724,
+          "name": "Ice Blade"
+        },
+        {
+          "id": 670,
+          "name": "Ice Boomerang"
+        },
+        {
+          "id": 2273,
+          "name": "Katana"
+        },
+        {
+          "id": 46,
+          "name": "Light's Bane"
+        },
+        {
+          "id": 5011,
+          "name": "Mace"
+        },
+        {
+          "id": 3279,
+          "name": "Malaise"
+        },
+        {
+          "id": 4258,
+          "name": "Orange Phaseblade"
+        },
+        {
+          "id": 5535,
+          "name": "Pink Phaseblade"
+        },
+        {
+          "id": 2330,
+          "name": "Purple Clubberfish"
+        },
+        {
+          "id": 201,
+          "name": "Purple Phaseblade"
+        },
+        {
+          "id": 5670,
+          "name": "Rainbow Phaseblade"
+        },
+        {
+          "id": 3285,
+          "name": "Rally"
+        },
+        {
+          "id": 199,
+          "name": "Red Phaseblade"
+        },
+        {
+          "id": 486,
+          "name": "Ruler"
+        },
+        {
+          "id": 4764,
+          "name": "Shroomerang"
+        },
+        {
+          "id": 4061,
+          "name": "Storm Spear"
+        },
+        {
+          "id": 801,
+          "name": "The Meatball"
+        },
+        {
+          "id": 802,
+          "name": "The Rotted Fork"
+        },
+        {
+          "id": 277,
+          "name": "Trident"
+        },
+        {
+          "id": 946,
+          "name": "Umbrella"
+        },
+        {
+          "id": 202,
+          "name": "White Phaseblade"
+        },
+        {
+          "id": 284,
+          "name": "Wooden Boomerang"
+        },
+        {
+          "id": 203,
+          "name": "Yellow Phaseblade"
+        },
+        {
+          "id": 5097,
+          "name": "Bat Bat"
+        },
+        {
+          "id": 1827,
+          "name": "Bladed Glove"
+        },
+        {
+          "id": 1825,
+          "name": "Bloody Machete"
+        },
+        {
+          "id": 163,
+          "name": "Blue Moon"
+        },
+        {
+          "id": 3262,
+          "name": "Code 1"
+        },
+        {
+          "id": 4818,
+          "name": "Combat Wrench"
+        },
+        {
+          "id": 989,
+          "name": "Enchanted Sword"
+        },
+        {
+          "id": 3349,
+          "name": "Exotic Scimitar"
+        },
+        {
+          "id": 5129,
+          "name": "Flymeal"
+        },
+        {
+          "id": 3772,
+          "name": "Mandible Blade"
+        },
+        {
+          "id": 155,
+          "name": "Muramasa"
+        },
+        {
+          "id": 65,
+          "name": "Starfury"
+        },
+        {
+          "id": 3352,
+          "name": "Stylish Scissors"
+        },
+        {
+          "id": 2332,
+          "name": "Swordfish"
+        },
+        {
+          "id": 5094,
+          "name": "Tentacle Spike"
+        },
+        {
+          "id": 4144,
+          "name": "Terragrim"
+        },
+        {
+          "id": 4707,
+          "name": "Tragic Umbrella"
+        },
+        {
+          "id": 3281,
+          "name": "Amazon"
+        },
+        {
+          "id": 1123,
+          "name": "Bee Keeper"
+        },
+        {
+          "id": 190,
+          "name": "Blade of Grass"
+        },
+        {
+          "id": 1166,
+          "name": "Bone Sword"
+        },
+        {
+          "id": 3282,
+          "name": "Cascade"
+        },
+        {
+          "id": 274,
+          "name": "Dark Lance"
+        },
+        {
+          "id": 119,
+          "name": "Flamarang"
+        },
+        {
+          "id": 5294,
+          "name": "Hive-Five"
+        },
+        {
+          "id": 273,
+          "name": "Night's Edge"
+        },
+        {
+          "id": 220,
+          "name": "Sunfury"
+        },
+        {
+          "id": 191,
+          "name": "Thorn Chakram"
+        },
+        {
+          "id": 5298,
+          "name": "Trimarang"
+        },
+        {
+          "id": 3317,
+          "name": "Valor"
+        },
+        {
+          "id": 121,
+          "name": "Volcano"
+        },
+        {
+          "id": 2608,
+          "name": "Falcon Blade"
+        },
+        "⚔️ Melee · Hardmode",
+        {
+          "id": 659,
+          "name": "Pearlwood Sword"
+        },
+        {
+          "id": 2424,
+          "name": "Anchor"
+        },
+        {
+          "id": 3351,
+          "name": "Classy Cane"
+        },
+        {
+          "id": 406,
+          "name": "Adamantite Glaive"
+        },
+        {
+          "id": 482,
+          "name": "Adamantite Sword"
+        },
+        {
+          "id": 3289,
+          "name": "Amarok"
+        },
+        {
+          "id": 723,
+          "name": "Beam Sword"
+        },
+        {
+          "id": 3764,
+          "name": "Blue Phasesaber"
+        },
+        {
+          "id": 426,
+          "name": "Breaker Blade"
+        },
+        {
+          "id": 3283,
+          "name": "Chik"
+        },
+        {
+          "id": 537,
+          "name": "Cobalt Naginata"
+        },
+        {
+          "id": 483,
+          "name": "Cobalt Sword"
+        },
+        {
+          "id": 672,
+          "name": "Cutlass"
+        },
+        {
+          "id": 4272,
+          "name": "Drippler Crippler"
+        },
+        {
+          "id": 5462,
+          "name": "Flint"
+        },
+        {
+          "id": 3316,
+          "name": "Gradient"
+        },
+        {
+          "id": 3766,
+          "name": "Green Phasesaber"
+        },
+        {
+          "id": 5096,
+          "name": "Ham Bat"
+        },
+        {
+          "id": 3290,
+          "name": "Hel-Fire"
+        },
+        {
+          "id": 4788,
+          "name": "Jousting Lance"
+        },
+        {
+          "id": 1314,
+          "name": "KO Cannon"
+        },
+        {
+          "id": 390,
+          "name": "Mythril Halberd"
+        },
+        {
+          "id": 484,
+          "name": "Mythril Sword"
+        },
+        {
+          "id": 4259,
+          "name": "Orange Phasesaber"
+        },
+        {
+          "id": 1193,
+          "name": "Orichalcum Halberd"
+        },
+        {
+          "id": 1192,
+          "name": "Orichalcum Sword"
+        },
+        {
+          "id": 1186,
+          "name": "Palladium Pike"
+        },
+        {
+          "id": 1185,
+          "name": "Palladium Sword"
+        },
+        {
+          "id": 5536,
+          "name": "Pink Phasesaber"
+        },
+        {
+          "id": 3767,
+          "name": "Purple Phasesaber"
+        },
+        {
+          "id": 5671,
+          "name": "Rainbow Phasesaber"
+        },
+        {
+          "id": 3765,
+          "name": "Red Phasesaber"
+        },
+        {
+          "id": 3258,
+          "name": "Slap Hand"
+        },
+        {
+          "id": 1199,
+          "name": "Titanium Sword"
+        },
+        {
+          "id": 1200,
+          "name": "Titanium Trident"
+        },
+        {
+          "id": 3768,
+          "name": "White Phasesaber"
+        },
+        {
+          "id": 3769,
+          "name": "Yellow Phasesaber"
+        },
+        {
+          "id": 1324,
+          "name": "Bananarang"
+        },
+        {
+          "id": 3211,
+          "name": "Bladetongue"
+        },
+        {
+          "id": 3823,
+          "name": "Brand of the Inferno"
+        },
+        {
+          "id": 3012,
+          "name": "Chain Guillotines"
+        },
+        {
+          "id": 3284,
+          "name": "Code 2"
+        },
+        {
+          "id": 389,
+          "name": "Dao of Pow"
+        },
+        {
+          "id": 368,
+          "name": "Excalibur"
+        },
+        {
+          "id": 3013,
+          "name": "Fetid Baghnakhs"
+        },
+        {
+          "id": 3315,
+          "name": "Format:C"
+        },
+        {
+          "id": 676,
+          "name": "Frostbrand"
+        },
+        {
+          "id": 3836,
+          "name": "Ghastly Glaive"
+        },
+        {
+          "id": 550,
+          "name": "Gungnir"
+        },
+        {
+          "id": 4790,
+          "name": "Hallowed Jousting Lance"
+        },
+        {
+          "id": 1306,
+          "name": "Ice Sickle"
+        },
+        {
+          "id": 561,
+          "name": "Light Disc"
+        },
+        {
+          "id": 3018,
+          "name": "Seedler"
+        },
+        {
+          "id": 4760,
+          "name": "Sergeant United Shield"
+        },
+        {
+          "id": 3054,
+          "name": "Shadowflame Knife"
+        },
+        {
+          "id": 3835,
+          "name": "Sleepy Octopod"
+        },
+        {
+          "id": 5382,
+          "name": "Waffle's Iron"
+        },
+        {
+          "id": 1327,
+          "name": "Death Sickle"
+        },
+        {
+          "id": 3030,
+          "name": "Flying Knife"
+        },
+        {
+          "id": 1226,
+          "name": "Chlorophyte Claymore"
+        },
+        {
+          "id": 1228,
+          "name": "Chlorophyte Partisan"
+        },
+        {
+          "id": 1227,
+          "name": "Chlorophyte Saber"
+        },
+        {
+          "id": 1259,
+          "name": "Flower Pow"
+        },
+        {
+          "id": 1297,
+          "name": "Golem Fist"
+        },
+        {
+          "id": 756,
+          "name": "Mushroom Spear"
+        },
+        {
+          "id": 1947,
+          "name": "North Pole"
+        },
+        {
+          "id": 2331,
+          "name": "Obsidian Swordfish"
+        },
+        {
+          "id": 1122,
+          "name": "Possessed Hatchet"
+        },
+        {
+          "id": 3286,
+          "name": "Yelets"
+        },
+        {
+          "id": 1928,
+          "name": "Christmas Tree Sword"
+        },
+        {
+          "id": 5526,
+          "name": "Flairon"
+        },
+        {
+          "id": 2611,
+          "name": "Flairoon"
+        },
+        {
+          "id": 3827,
+          "name": "Flying Dragon"
+        },
+        {
+          "id": 2880,
+          "name": "Influx Waver"
+        },
+        {
+          "id": 671,
+          "name": "Keybrand"
+        },
+        {
+          "id": 3291,
+          "name": "Kraken"
+        },
+        {
+          "id": 1513,
+          "name": "Paladin's Hammer"
+        },
+        {
+          "id": 3106,
+          "name": "Psycho Knife"
+        },
+        {
+          "id": 1571,
+          "name": "Scourge of the Corruptor"
+        },
+        {
+          "id": 4789,
+          "name": "Shadow Jousting Lance"
+        },
+        {
+          "id": 3858,
+          "name": "Sky Dragon's Fury"
+        },
+        {
+          "id": 4923,
+          "name": "Starlight"
+        },
+        {
+          "id": 757,
+          "name": "Terra Blade"
+        },
+        {
+          "id": 3292,
+          "name": "The Eye of Cthulhu"
+        },
+        {
+          "id": 1826,
+          "name": "The Horseman's Blade"
+        },
+        {
+          "id": 674,
+          "name": "True Excalibur"
+        },
+        {
+          "id": 675,
+          "name": "True Night's Edge"
+        },
+        {
+          "id": 1569,
+          "name": "Vampire Knives"
+        },
+        {
+          "id": 3368,
+          "name": "Arkhalis"
+        },
+        {
+          "id": 3287,
+          "name": "Red's Throw"
+        },
+        {
+          "id": 3288,
+          "name": "Valkyrie Yoyo"
+        },
+        {
+          "id": 3543,
+          "name": "Daybreak"
+        },
+        {
+          "id": 3063,
+          "name": "Meowmere"
+        },
+        {
+          "id": 3473,
+          "name": "Solar Eruption"
+        },
+        {
+          "id": 3065,
+          "name": "Star Wrath"
+        },
+        {
+          "id": 3389,
+          "name": "Terrarian"
+        },
+        {
+          "id": 5669,
+          "name": "True Copper Shortsword"
+        },
+        {
+          "id": 4956,
+          "name": "Zenith"
+        },
+        "🏹 Ranged · Pre-Hardmode",
+        {
+          "id": 5282,
+          "name": "Ash Wood Bow"
+        },
+        {
+          "id": 1130,
+          "name": "Beenade"
+        },
+        {
+          "id": 281,
+          "name": "Blowpipe"
+        },
+        {
+          "id": 154,
+          "name": "Bone"
+        },
+        {
+          "id": 2747,
+          "name": "Boreal Wood Bow"
+        },
+        {
+          "id": 3116,
+          "name": "Bouncy Grenade"
+        },
+        {
+          "id": 3504,
+          "name": "Copper Bow"
+        },
+        {
+          "id": 655,
+          "name": "Ebonwood Bow"
+        },
+        {
+          "id": 3516,
+          "name": "Gold Bow"
+        },
+        {
+          "id": 168,
+          "name": "Grenade"
+        },
+        {
+          "id": 99,
+          "name": "Iron Bow"
+        },
+        {
+          "id": 3094,
+          "name": "Javelin"
+        },
+        {
+          "id": 3492,
+          "name": "Lead Bow"
+        },
+        {
+          "id": 2515,
+          "name": "Palm Wood Bow"
+        },
+        {
+          "id": 4343,
+          "name": "Paper Airplane"
+        },
+        {
+          "id": 3480,
+          "name": "Platinum Bow"
+        },
+        {
+          "id": 287,
+          "name": "Poisoned Knife"
+        },
+        {
+          "id": 658,
+          "name": "Rich Mahogany Bow"
+        },
+        {
+          "id": 1809,
+          "name": "Rotten Egg"
+        },
+        {
+          "id": 923,
+          "name": "Shadewood Bow"
+        },
+        {
+          "id": 42,
+          "name": "Shuriken"
+        },
+        {
+          "id": 3510,
+          "name": "Silver Bow"
+        },
+        {
+          "id": 949,
+          "name": "Snowball"
+        },
+        {
+          "id": 161,
+          "name": "Spiky Ball"
+        },
+        {
+          "id": 1913,
+          "name": "Star Anise"
+        },
+        {
+          "id": 2586,
+          "name": "Sticky Grenade"
+        },
+        {
+          "id": 279,
+          "name": "Throwing Knife"
+        },
+        {
+          "id": 3498,
+          "name": "Tin Bow"
+        },
+        {
+          "id": 3486,
+          "name": "Tungsten Bow"
+        },
+        {
+          "id": 4344,
+          "name": "White Paper Airplane"
+        },
+        {
+          "id": 39,
+          "name": "Wooden Bow"
+        },
+        {
+          "id": 3378,
+          "name": "Bone Javelin"
+        },
+        {
+          "id": 3379,
+          "name": "Bone Throwing Knife"
+        },
+        {
+          "id": 44,
+          "name": "Demon Bow"
+        },
+        {
+          "id": 95,
+          "name": "Flintlock Pistol"
+        },
+        {
+          "id": 3197,
+          "name": "Frost Daggerfish"
+        },
+        {
+          "id": 2590,
+          "name": "Molotov Cocktail"
+        },
+        {
+          "id": 96,
+          "name": "Musket"
+        },
+        {
+          "id": 1870,
+          "name": "Red Ryder"
+        },
+        {
+          "id": 1319,
+          "name": "Snowball Cannon"
+        },
+        {
+          "id": 796,
+          "name": "Tendon Bow"
+        },
+        {
+          "id": 800,
+          "name": "The Undertaker"
+        },
+        {
+          "id": 3821,
+          "name": "Ale Tosser"
+        },
+        {
+          "id": 964,
+          "name": "Boomstick"
+        },
+        {
+          "id": 164,
+          "name": "Handgun"
+        },
+        {
+          "id": 3548,
+          "name": "Happy Grenade"
+        },
+        {
+          "id": 160,
+          "name": "Harpoon"
+        },
+        {
+          "id": 98,
+          "name": "Minishark"
+        },
+        {
+          "id": 3350,
+          "name": "Paintball Gun"
+        },
+        {
+          "id": 5117,
+          "name": "Pew-matic Horn"
+        },
+        {
+          "id": 2269,
+          "name": "Revolver"
+        },
+        {
+          "id": 266,
+          "name": "Sandgun"
+        },
+        {
+          "id": 197,
+          "name": "Star Cannon"
+        },
+        {
+          "id": 4381,
+          "name": "Blood Rain Bow"
+        },
+        {
+          "id": 986,
+          "name": "Blowgun"
+        },
+        {
+          "id": 3019,
+          "name": "Hellwing Bow"
+        },
+        {
+          "id": 120,
+          "name": "Molten Fury"
+        },
+        {
+          "id": 219,
+          "name": "Phoenix Blaster"
+        },
+        {
+          "id": 4703,
+          "name": "Quad-Barrel Shotgun"
+        },
+        {
+          "id": 2888,
+          "name": "The Bee's Knees"
+        },
+        "🏹 Ranged · Hardmode",
+        {
+          "id": 661,
+          "name": "Pearlwood Bow"
+        },
+        {
+          "id": 4060,
+          "name": "Super Star Shooter"
+        },
+        {
+          "id": 481,
+          "name": "Adamantite Repeater"
+        },
+        {
+          "id": 5460,
+          "name": "Barrel Launcher"
+        },
+        {
+          "id": 434,
+          "name": "Clockwork Assault Rifle"
+        },
+        {
+          "id": 435,
+          "name": "Cobalt Repeater"
+        },
+        {
+          "id": 2270,
+          "name": "Gatligator"
+        },
+        {
+          "id": 578,
+          "name": "Hallowed Repeater"
+        },
+        {
+          "id": 436,
+          "name": "Mythril Repeater"
+        },
+        {
+          "id": 3788,
+          "name": "Onyx Blaster"
+        },
+        {
+          "id": 1194,
+          "name": "Orichalcum Repeater"
+        },
+        {
+          "id": 1187,
+          "name": "Palladium Repeater"
+        },
+        {
+          "id": 534,
+          "name": "Shotgun"
+        },
+        {
+          "id": 1201,
+          "name": "Titanium Repeater"
+        },
+        {
+          "id": 3007,
+          "name": "Dart Pistol"
+        },
+        {
+          "id": 3008,
+          "name": "Dart Rifle"
+        },
+        {
+          "id": 506,
+          "name": "Flamethrower"
+        },
+        {
+          "id": 725,
+          "name": "Ice Bow"
+        },
+        {
+          "id": 682,
+          "name": "Marrow"
+        },
+        {
+          "id": 533,
+          "name": "Megashark"
+        },
+        {
+          "id": 3854,
+          "name": "Phantom Phoenix"
+        },
+        {
+          "id": 3052,
+          "name": "Shadowflame Bow"
+        },
+        {
+          "id": 3210,
+          "name": "Toxikarp"
+        },
+        {
+          "id": 3029,
+          "name": "Daedalus Stormbow"
+        },
+        {
+          "id": 1229,
+          "name": "Chlorophyte Shotbow"
+        },
+        {
+          "id": 1258,
+          "name": "Stynger"
+        },
+        {
+          "id": 1265,
+          "name": "Uzi"
+        },
+        {
+          "id": 1255,
+          "name": "Venus Magnum"
+        },
+        {
+          "id": 3859,
+          "name": "Aerial Bane"
+        },
+        {
+          "id": 1782,
+          "name": "Candy Corn Rifle"
+        },
+        {
+          "id": 3546,
+          "name": "Celebration"
+        },
+        {
+          "id": 1929,
+          "name": "Chain Gun"
+        },
+        {
+          "id": 2796,
+          "name": "Electrosphere Launcher"
+        },
+        {
+          "id": 1910,
+          "name": "Elf Melter"
+        },
+        {
+          "id": 4953,
+          "name": "Eventide"
+        },
+        {
+          "id": 758,
+          "name": "Grenade Launcher"
+        },
+        {
+          "id": 1784,
+          "name": "Jack 'O Lantern Launcher"
+        },
+        {
+          "id": 3107,
+          "name": "Nail Gun"
+        },
+        {
+          "id": 1156,
+          "name": "Piranha Gun"
+        },
+        {
+          "id": 760,
+          "name": "Proximity Mine Launcher"
+        },
+        {
+          "id": 2223,
+          "name": "Pulse Bow"
+        },
+        {
+          "id": 759,
+          "name": "Rocket Launcher"
+        },
+        {
+          "id": 1254,
+          "name": "Sniper Rifle"
+        },
+        {
+          "id": 1946,
+          "name": "Snowman Cannon"
+        },
+        {
+          "id": 1835,
+          "name": "Stake Launcher"
+        },
+        {
+          "id": 679,
+          "name": "Tactical Shotgun"
+        },
+        {
+          "id": 2624,
+          "name": "Tsunami"
+        },
+        {
+          "id": 2797,
+          "name": "Xenopopper"
+        },
+        {
+          "id": 3930,
+          "name": "Celebration Mk2"
+        },
+        {
+          "id": 3540,
+          "name": "Phantasm"
+        },
+        {
+          "id": 1553,
+          "name": "S.D.M.G."
+        },
+        {
+          "id": 3475,
+          "name": "Vortex Beater"
+        },
+        "🔮 Magic · Pre-Hardmode",
+        {
+          "id": 739,
+          "name": "Amethyst Staff"
+        },
+        {
+          "id": 740,
+          "name": "Topaz Staff"
+        },
+        {
+          "id": 3377,
+          "name": "Amber Staff"
+        },
+        {
+          "id": 1256,
+          "name": "Crimson Rod"
+        },
+        {
+          "id": 6152,
+          "name": "Daybloom Staff"
+        },
+        {
+          "id": 742,
+          "name": "Emerald Staff"
+        },
+        {
+          "id": 6153,
+          "name": "Glacier Fang"
+        },
+        {
+          "id": 743,
+          "name": "Ruby Staff"
+        },
+        {
+          "id": 741,
+          "name": "Sapphire Staff"
+        },
+        {
+          "id": 127,
+          "name": "Space Gun"
+        },
+        {
+          "id": 4062,
+          "name": "Thunder Zapper"
+        },
+        {
+          "id": 64,
+          "name": "Vilethorn"
+        },
+        {
+          "id": 5147,
+          "name": "Wand of Frosting"
+        },
+        {
+          "id": 3069,
+          "name": "Wand of Sparking"
+        },
+        {
+          "id": 157,
+          "name": "Aqua Scepter"
+        },
+        {
+          "id": 1121,
+          "name": "Bee Gun"
+        },
+        {
+          "id": 1313,
+          "name": "Book of Skulls"
+        },
+        {
+          "id": 744,
+          "name": "Diamond Staff"
+        },
+        {
+          "id": 4347,
+          "name": "Gray Zapinator"
+        },
+        {
+          "id": 113,
+          "name": "Magic Missile"
+        },
+        {
+          "id": 165,
+          "name": "Water Bolt"
+        },
+        {
+          "id": 5118,
+          "name": "Weather Pain"
+        },
+        {
+          "id": 272,
+          "name": "Demon Scythe"
+        },
+        {
+          "id": 218,
+          "name": "Flamelash"
+        },
+        {
+          "id": 112,
+          "name": "Flower of Fire"
+        },
+        {
+          "id": 6154,
+          "name": "Mystic Bloom"
+        },
+        "🔮 Magic · Hardmode",
+        {
+          "id": 4270,
+          "name": "Blood Thorn"
+        },
+        {
+          "id": 518,
+          "name": "Crystal Storm"
+        },
+        {
+          "id": 519,
+          "name": "Cursed Flames"
+        },
+        {
+          "id": 1336,
+          "name": "Golden Shower"
+        },
+        {
+          "id": 496,
+          "name": "Ice Rod"
+        },
+        {
+          "id": 5461,
+          "name": "Killing Deck"
+        },
+        {
+          "id": 514,
+          "name": "Laser Rifle"
+        },
+        {
+          "id": 517,
+          "name": "Magic Dagger"
+        },
+        {
+          "id": 3269,
+          "name": "Medusa Head"
+        },
+        {
+          "id": 3787,
+          "name": "Sky Fracture"
+        },
+        {
+          "id": 3779,
+          "name": "Spirit Flame"
+        },
+        {
+          "id": 3014,
+          "name": "Clinger Staff"
+        },
+        {
+          "id": 3209,
+          "name": "Crystal Serpent"
+        },
+        {
+          "id": 3051,
+          "name": "Crystal Vile Shard"
+        },
+        {
+          "id": 1264,
+          "name": "Flower of Frost"
+        },
+        {
+          "id": 726,
+          "name": "Frost Staff"
+        },
+        {
+          "id": 3006,
+          "name": "Life Drain"
+        },
+        {
+          "id": 494,
+          "name": "Magical Harp"
+        },
+        {
+          "id": 2750,
+          "name": "Meteor Staff"
+        },
+        {
+          "id": 4348,
+          "name": "Orange Zapinator"
+        },
+        {
+          "id": 495,
+          "name": "Rainbow Rod"
+        },
+        {
+          "id": 5065,
+          "name": "Resonance Scepter"
+        },
+        {
+          "id": 3053,
+          "name": "Shadowflame Hex Doll"
+        },
+        {
+          "id": 4715,
+          "name": "Stellar Tune"
+        },
+        {
+          "id": 3852,
+          "name": "Tome of Infinite Wisdom"
+        },
+        {
+          "id": 6155,
+          "name": "Lightning Strike"
+        },
+        {
+          "id": 1244,
+          "name": "Nimbus Rod"
+        },
+        {
+          "id": 1308,
+          "name": "Poison Staff"
+        },
+        {
+          "id": 683,
+          "name": "Unholy Trident"
+        },
+        {
+          "id": 1295,
+          "name": "Heat Ray"
+        },
+        {
+          "id": 1178,
+          "name": "Leaf Blower"
+        },
+        {
+          "id": 788,
+          "name": "Nettle Burst"
+        },
+        {
+          "id": 1296,
+          "name": "Staff of Earth"
+        },
+        {
+          "id": 2188,
+          "name": "Venom Staff"
+        },
+        {
+          "id": 1801,
+          "name": "Bat Scepter"
+        },
+        {
+          "id": 3870,
+          "name": "Betsy's Wrath"
+        },
+        {
+          "id": 1931,
+          "name": "Blizzard Staff"
+        },
+        {
+          "id": 2623,
+          "name": "Bubble Gun"
+        },
+        {
+          "id": 2882,
+          "name": "Charged Blaster Cannon"
+        },
+        {
+          "id": 1445,
+          "name": "Inferno Fork"
+        },
+        {
+          "id": 2795,
+          "name": "Laser Machinegun"
+        },
+        {
+          "id": 1266,
+          "name": "Magnet Sphere"
+        },
+        {
+          "id": 4952,
+          "name": "Nightglow"
+        },
+        {
+          "id": 1260,
+          "name": "Rainbow Gun"
+        },
+        {
+          "id": 2622,
+          "name": "Razorblade Typhoon"
+        },
+        {
+          "id": 1930,
+          "name": "Razorpine"
+        },
+        {
+          "id": 1444,
+          "name": "Shadowbeam Staff"
+        },
+        {
+          "id": 1446,
+          "name": "Spectre Staff"
+        },
+        {
+          "id": 3105,
+          "name": "Toxic Flask"
+        },
+        {
+          "id": 1155,
+          "name": "Wasp Gun"
+        },
+        {
+          "id": 6173,
+          "name": "Arc Surge"
+        },
+        {
+          "id": 3541,
+          "name": "Last Prism"
+        },
+        {
+          "id": 3570,
+          "name": "Lunar Flare"
+        },
+        {
+          "id": 3476,
+          "name": "Nebula Arcanum"
+        },
+        {
+          "id": 3542,
+          "name": "Nebula Blaze"
+        },
+        "🐉 Summon · Pre-Hardmode",
+        {
+          "id": 6161,
+          "name": "Clay Bud Staff"
+        },
+        {
+          "id": 5473,
+          "name": "Cobwhip"
+        },
+        {
+          "id": 4281,
+          "name": "Finch Staff"
+        },
+        {
+          "id": 4672,
+          "name": "Leather Whip"
+        },
+        {
+          "id": 5688,
+          "name": "Slime Whip"
+        },
+        {
+          "id": 5474,
+          "name": "Soulscourge"
+        },
+        {
+          "id": 5475,
+          "name": "Vasculash"
+        },
+        {
+          "id": 5119,
+          "name": "Houndius Shootius"
+        },
+        {
+          "id": 5456,
+          "name": "Mushroom Staff"
+        },
+        {
+          "id": 5074,
+          "name": "Spinal Tap"
+        },
+        {
+          "id": 5476,
+          "name": "Starcrash"
+        },
+        {
+          "id": 5114,
+          "name": "Abigail's Flower"
+        },
+        {
+          "id": 3824,
+          "name": "Ballista Rod"
+        },
+        {
+          "id": 3832,
+          "name": "Explosive Trap Rod"
+        },
+        {
+          "id": 3818,
+          "name": "Flameburst Rod"
+        },
+        {
+          "id": 5069,
+          "name": "Flinx Staff"
+        },
+        {
+          "id": 2364,
+          "name": "Hornet Staff"
+        },
+        {
+          "id": 2365,
+          "name": "Imp Staff"
+        },
+        {
+          "id": 3829,
+          "name": "Lightning Aura Rod"
+        },
+        {
+          "id": 4913,
+          "name": "Snapthorn"
+        },
+        {
+          "id": 4273,
+          "name": "Vampire Frog Staff"
+        },
+        {
+          "id": 5664,
+          "name": "Foxparks"
+        },
+        {
+          "id": 1309,
+          "name": "Slime Staff"
+        },
+        {
+          "id": 5663,
+          "name": "Cattiva"
+        },
+        "🐉 Summon · Hardmode",
+        {
+          "id": 5463,
+          "name": "Barnacle Staff"
+        },
+        {
+          "id": 4911,
+          "name": "Cool Whip"
+        },
+        {
+          "id": 4912,
+          "name": "Firecracker"
+        },
+        {
+          "id": 2366,
+          "name": "Queen Spider Staff"
+        },
+        {
+          "id": 6164,
+          "name": "Ruinous Staff"
+        },
+        {
+          "id": 4269,
+          "name": "Sanguine Staff"
+        },
+        {
+          "id": 2551,
+          "name": "Spider Staff"
+        },
+        {
+          "id": 6149,
+          "name": "Trusty Foxparks"
+        },
+        {
+          "id": 3825,
+          "name": "Ballista Cane"
+        },
+        {
+          "id": 4758,
+          "name": "Blade Staff"
+        },
+        {
+          "id": 4678,
+          "name": "Durendal"
+        },
+        {
+          "id": 3833,
+          "name": "Explosive Trap Cane"
+        },
+        {
+          "id": 3819,
+          "name": "Flameburst Cane"
+        },
+        {
+          "id": 3830,
+          "name": "Lightning Aura Cane"
+        },
+        {
+          "id": 2535,
+          "name": "Optic Staff"
+        },
+        {
+          "id": 2584,
+          "name": "Pirate Staff"
+        },
+        {
+          "id": 5005,
+          "name": "Terraprisma"
+        },
+        {
+          "id": 6148,
+          "name": "Trusty Cattiva"
+        },
+        {
+          "id": 1157,
+          "name": "Pygmy Staff"
+        },
+        {
+          "id": 5477,
+          "name": "Vulgar Display of Flower"
+        },
+        {
+          "id": 3826,
+          "name": "Ballista Staff"
+        },
+        {
+          "id": 4680,
+          "name": "Dark Harvest"
+        },
+        {
+          "id": 3249,
+          "name": "Deadly Sphere Staff"
+        },
+        {
+          "id": 4607,
+          "name": "Desert Tiger Staff"
+        },
+        {
+          "id": 5478,
+          "name": "Electric Eel"
+        },
+        {
+          "id": 3834,
+          "name": "Explosive Trap Staff"
+        },
+        {
+          "id": 3820,
+          "name": "Flameburst Staff"
+        },
+        {
+          "id": 4914,
+          "name": "Kaleidoscope"
+        },
+        {
+          "id": 3831,
+          "name": "Lightning Aura Staff"
+        },
+        {
+          "id": 4679,
+          "name": "Morning Star"
+        },
+        {
+          "id": 1802,
+          "name": "Raven Staff"
+        },
+        {
+          "id": 1572,
+          "name": "Staff of the Frost Hydra"
+        },
+        {
+          "id": 2621,
+          "name": "Tempest Staff"
+        },
+        {
+          "id": 2749,
+          "name": "Xeno Staff"
+        },
+        {
+          "id": 3569,
+          "name": "Lunar Portal Staff"
+        },
+        {
+          "id": 5480,
+          "name": "Possession"
+        },
+        {
+          "id": 3571,
+          "name": "Rainbow Crystal Staff"
+        },
+        {
+          "id": 3474,
+          "name": "Stardust Cell Staff"
+        },
+        {
+          "id": 3531,
+          "name": "Stardust Dragon Staff"
+        },
+        "💣 Explosives & other · Pre-Hardmode",
+        {
+          "id": 166,
+          "name": "Bomb"
+        },
+        {
+          "id": 3115,
+          "name": "Bouncy Bomb"
+        },
+        {
+          "id": 5572,
+          "name": "Mud Ball"
+        },
+        {
+          "id": 235,
+          "name": "Sticky Bomb"
+        },
+        {
+          "id": 5629,
+          "name": "Acorn Slingshot"
+        },
+        {
+          "id": 3196,
+          "name": "Bomb Fish"
+        },
+        {
+          "id": 3547,
+          "name": "Bouncy Dynamite"
+        },
+        {
+          "id": 4908,
+          "name": "Dirt Bomb"
+        },
+        {
+          "id": 4827,
+          "name": "Dry Bomb"
+        },
+        {
+          "id": 167,
+          "name": "Dynamite"
+        },
+        {
+          "id": 930,
+          "name": "Flare Gun"
+        },
+        {
+          "id": 5542,
+          "name": "Freeze Bomb"
+        },
+        {
+          "id": 4826,
+          "name": "Honey Bomb"
+        },
+        {
+          "id": 4825,
+          "name": "Lava Bomb"
+        },
+        {
+          "id": 5577,
+          "name": "Pretty Mirror"
+        },
+        {
+          "id": 4423,
+          "name": "Scarab Bomb"
+        },
+        {
+          "id": 4909,
+          "name": "Sticky Dirt Bomb"
+        },
+        {
+          "id": 2896,
+          "name": "Sticky Dynamite"
+        },
+        {
+          "id": 4824,
+          "name": "Wet Bomb"
+        },
+        {
+          "id": 951,
+          "name": "Snowball Launcher"
+        },
+        {
+          "id": 3477,
+          "name": "Blood Water"
+        },
+        {
+          "id": 423,
+          "name": "Unholy Water"
+        },
+        "💣 Explosives & other · Hardmode",
+        {
+          "id": 972,
+          "name": "Blue Rocket"
+        },
+        {
+          "id": 1337,
+          "name": "Bunny Cannon"
+        },
+        {
+          "id": 971,
+          "name": "Green Rocket"
+        },
+        {
+          "id": 937,
+          "name": "Land Mine"
+        },
+        {
+          "id": 970,
+          "name": "Red Rocket"
+        },
+        {
+          "id": 973,
+          "name": "Yellow Rocket"
+        },
+        {
+          "id": 928,
+          "name": "Cannon"
+        },
+        {
+          "id": 422,
+          "name": "Holy Water"
+        },
+        {
+          "id": 5594,
+          "name": "Power Bomb"
+        },
+        {
+          "id": 5595,
+          "name": "Sticky Power Bomb"
+        },
+        {
+          "id": 905,
+          "name": "Coin Gun"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "Accessories",
+      "slug": "accessories",
+      "background": "#2e6e8c",
+      "items": [
+        "🪽 Wings",
+        {
+          "id": 4978,
+          "name": "Fledgling Wings"
+        },
+        {
+          "id": 2494,
+          "name": "Fin Wings"
+        },
+        {
+          "id": 493,
+          "name": "Angel Wings"
+        },
+        {
+          "id": 1165,
+          "name": "Bat Wings"
+        },
+        {
+          "id": 1515,
+          "name": "Bee Wings"
+        },
+        {
+          "id": 786,
+          "name": "Bone Wings"
+        },
+        {
+          "id": 749,
+          "name": "Butterfly Wings"
+        },
+        {
+          "id": 492,
+          "name": "Demon Wings"
+        },
+        {
+          "id": 761,
+          "name": "Fairy Wings"
+        },
+        {
+          "id": 1871,
+          "name": "Festive Wings"
+        },
+        {
+          "id": 821,
+          "name": "Flame Wings"
+        },
+        {
+          "id": 822,
+          "name": "Frozen Wings"
+        },
+        {
+          "id": 785,
+          "name": "Harpy Wings"
+        },
+        {
+          "id": 1866,
+          "name": "Hoverboard"
+        },
+        {
+          "id": 748,
+          "name": "Jetpack"
+        },
+        {
+          "id": 1162,
+          "name": "Leaf Wings"
+        },
+        {
+          "id": 2280,
+          "name": "Beetle Wings"
+        },
+        {
+          "id": 4954,
+          "name": "Celestial Starboard"
+        },
+        {
+          "id": 1830,
+          "name": "Spooky Wings"
+        },
+        {
+          "id": 1797,
+          "name": "Tattered Fairy Wings"
+        },
+        {
+          "id": 3883,
+          "name": "Betsy's Wings"
+        },
+        {
+          "id": 2609,
+          "name": "Fishron Wings"
+        },
+        {
+          "id": 2770,
+          "name": "Mothron Wings"
+        },
+        {
+          "id": 823,
+          "name": "Spectre Wings"
+        },
+        {
+          "id": 948,
+          "name": "Steampunk Wings"
+        },
+        {
+          "id": 3924,
+          "name": "Arkhalis' Lightwings"
+        },
+        {
+          "id": 1586,
+          "name": "Cenx's Wings"
+        },
+        {
+          "id": 5586,
+          "name": "Chicken Bones' Wings"
+        },
+        {
+          "id": 1585,
+          "name": "Crowno's Wings"
+        },
+        {
+          "id": 1583,
+          "name": "D-Town's Wings"
+        },
+        {
+          "id": 4823,
+          "name": "Empress Wings"
+        },
+        {
+          "id": 4750,
+          "name": "FoodBarbarian's Tattered Dragon Wings"
+        },
+        {
+          "id": 4754,
+          "name": "Grox The Great's Wings"
+        },
+        {
+          "id": 5659,
+          "name": "Heroicis' Wings"
+        },
+        {
+          "id": 3582,
+          "name": "Jim's Wings"
+        },
+        {
+          "id": 5686,
+          "name": "Kazzymodus' Wings"
+        },
+        {
+          "id": 3928,
+          "name": "Leinfors' Prehensile Cloak"
+        },
+        {
+          "id": 3592,
+          "name": "Loki's Wings"
+        },
+        {
+          "id": 6140,
+          "name": "Luna's Runic Pixie Wings"
+        },
+        {
+          "id": 665,
+          "name": "Red's Wings"
+        },
+        {
+          "id": 1584,
+          "name": "Will's Wings"
+        },
+        {
+          "id": 3470,
+          "name": "Nebula Mantle"
+        },
+        {
+          "id": 3468,
+          "name": "Solar Wings"
+        },
+        {
+          "id": 3471,
+          "name": "Stardust Wings"
+        },
+        {
+          "id": 3469,
+          "name": "Vortex Booster"
+        },
+        "ℹ️ Informational",
+        {
+          "id": 15,
+          "name": "Copper Watch"
+        },
+        {
+          "id": 16,
+          "name": "Silver Watch"
+        },
+        {
+          "id": 707,
+          "name": "Tin Watch"
+        },
+        {
+          "id": 708,
+          "name": "Tungsten Watch"
+        },
+        {
+          "id": 393,
+          "name": "Compass"
+        },
+        {
+          "id": 18,
+          "name": "Depth Meter"
+        },
+        {
+          "id": 3119,
+          "name": "DPS Meter"
+        },
+        {
+          "id": 3120,
+          "name": "Fisherman's Pocket Guide"
+        },
+        {
+          "id": 17,
+          "name": "Gold Watch"
+        },
+        {
+          "id": 3118,
+          "name": "Lifeform Analyzer"
+        },
+        {
+          "id": 3102,
+          "name": "Metal Detector"
+        },
+        {
+          "id": 709,
+          "name": "Platinum Watch"
+        },
+        {
+          "id": 3084,
+          "name": "Radar"
+        },
+        {
+          "id": 3096,
+          "name": "Sextant"
+        },
+        {
+          "id": 3099,
+          "name": "Stopwatch"
+        },
+        {
+          "id": 3095,
+          "name": "Tally Counter"
+        },
+        {
+          "id": 3037,
+          "name": "Weather Radio"
+        },
+        {
+          "id": 3036,
+          "name": "Fish Finder"
+        },
+        {
+          "id": 3121,
+          "name": "Goblin Tech"
+        },
+        {
+          "id": 3122,
+          "name": "R.E.K. 3000"
+        },
+        {
+          "id": 395,
+          "name": "GPS"
+        },
+        {
+          "id": 3123,
+          "name": "PDA"
+        },
+        "🎣 Fishing",
+        {
+          "id": 2374,
+          "name": "Angler Earring"
+        },
+        {
+          "id": 5144,
+          "name": "Argon Moss Fishing Bobber"
+        },
+        {
+          "id": 5139,
+          "name": "Fishing Bobber"
+        },
+        {
+          "id": 5140,
+          "name": "Glowing Fishing Bobber"
+        },
+        {
+          "id": 5146,
+          "name": "Helium Moss Fishing Bobber"
+        },
+        {
+          "id": 2373,
+          "name": "High Test Fishing Line"
+        },
+        {
+          "id": 5142,
+          "name": "Krypton Moss Fishing Bobber"
+        },
+        {
+          "id": 5141,
+          "name": "Lava Moss Fishing Bobber"
+        },
+        {
+          "id": 5145,
+          "name": "Neon Moss Fishing Bobber"
+        },
+        {
+          "id": 2375,
+          "name": "Tackle Box"
+        },
+        {
+          "id": 5143,
+          "name": "Xenon Moss Fishing Bobber"
+        },
+        {
+          "id": 3721,
+          "name": "Angler Tackle Bag"
+        },
+        {
+          "id": 4881,
+          "name": "Lavaproof Fishing Hook"
+        },
+        {
+          "id": 5064,
+          "name": "Lavaproof Tackle Bag"
+        },
+        "🔨 Building & mining",
+        {
+          "id": 4056,
+          "name": "Ancient Chisel"
+        },
+        {
+          "id": 2799,
+          "name": "Mechanical Ruler"
+        },
+        {
+          "id": 5010,
+          "name": "Treasure Magnet"
+        },
+        {
+          "id": 1923,
+          "name": "Toolbox"
+        },
+        {
+          "id": 2214,
+          "name": "Brick Layer"
+        },
+        {
+          "id": 2215,
+          "name": "Extendo Grip"
+        },
+        {
+          "id": 3619,
+          "name": "Mechanical Lens"
+        },
+        {
+          "id": 2216,
+          "name": "Paint Sprayer"
+        },
+        {
+          "id": 2217,
+          "name": "Portable Cement Mixer"
+        },
+        {
+          "id": 3624,
+          "name": "Presserator"
+        },
+        {
+          "id": 407,
+          "name": "Toolbelt"
+        },
+        {
+          "id": 3061,
+          "name": "Architect Gizmo Pack"
+        },
+        {
+          "id": 5126,
+          "name": "Hand Of Creation"
+        },
+        "👟 Movement",
+        {
+          "id": 4404,
+          "name": "Inner Tube"
+        },
+        {
+          "id": 285,
+          "name": "Aglet"
+        },
+        {
+          "id": 3225,
+          "name": "Balloon Pufferfish"
+        },
+        {
+          "id": 987,
+          "name": "Blizzard in a Bottle"
+        },
+        {
+          "id": 953,
+          "name": "Climbing Claws"
+        },
+        {
+          "id": 53,
+          "name": "Cloud in a Bottle"
+        },
+        {
+          "id": 4055,
+          "name": "Dunerider Boots"
+        },
+        {
+          "id": 187,
+          "name": "Flipper"
+        },
+        {
+          "id": 1579,
+          "name": "Flurry Boots"
+        },
+        {
+          "id": 2423,
+          "name": "Frog Leg"
+        },
+        {
+          "id": 54,
+          "name": "Hermes Boots"
+        },
+        {
+          "id": 950,
+          "name": "Ice Skates"
+        },
+        {
+          "id": 158,
+          "name": "Lucky Horseshoe"
+        },
+        {
+          "id": 3200,
+          "name": "Sailfish Boots"
+        },
+        {
+          "id": 3241,
+          "name": "Sharkron Balloon"
+        },
+        {
+          "id": 159,
+          "name": "Shiny Red Balloon"
+        },
+        {
+          "id": 975,
+          "name": "Shoe Spikes"
+        },
+        {
+          "id": 3201,
+          "name": "Tsunami in a Bottle"
+        },
+        {
+          "id": 1724,
+          "name": "Fart in a Jar"
+        },
+        {
+          "id": 934,
+          "name": "Flying Carpet"
+        },
+        {
+          "id": 1249,
+          "name": "Honey Balloon"
+        },
+        {
+          "id": 5465,
+          "name": "Ram Rune"
+        },
+        {
+          "id": 857,
+          "name": "Sandstorm in a Bottle"
+        },
+        {
+          "id": 3097,
+          "name": "Shield of Cthulhu"
+        },
+        {
+          "id": 976,
+          "name": "Tiger Climbing Gear"
+        },
+        {
+          "id": 212,
+          "name": "Anklet of the Wind"
+        },
+        {
+          "id": 128,
+          "name": "Rocket Boots"
+        },
+        {
+          "id": 3251,
+          "name": "Amber Horseshoe Balloon"
+        },
+        {
+          "id": 1163,
+          "name": "Blizzard in a Balloon"
+        },
+        {
+          "id": 1250,
+          "name": "Blue Horseshoe Balloon"
+        },
+        {
+          "id": 399,
+          "name": "Cloud in a Balloon"
+        },
+        {
+          "id": 394,
+          "name": "Diving Gear"
+        },
+        {
+          "id": 1863,
+          "name": "Fart in a Balloon"
+        },
+        {
+          "id": 3250,
+          "name": "Green Horseshoe Balloon"
+        },
+        {
+          "id": 396,
+          "name": "Obsidian Horseshoe"
+        },
+        {
+          "id": 907,
+          "name": "Obsidian Water Walking Boots"
+        },
+        {
+          "id": 3252,
+          "name": "Pink Horseshoe Balloon"
+        },
+        {
+          "id": 983,
+          "name": "Sandstorm in a Balloon"
+        },
+        {
+          "id": 405,
+          "name": "Spectre Boots"
+        },
+        {
+          "id": 863,
+          "name": "Water Walking Boots"
+        },
+        {
+          "id": 1251,
+          "name": "White Horseshoe Balloon"
+        },
+        {
+          "id": 1252,
+          "name": "Yellow Horseshoe Balloon"
+        },
+        {
+          "id": 3990,
+          "name": "Amphibian Boots"
+        },
+        {
+          "id": 3993,
+          "name": "Fairy Boots"
+        },
+        {
+          "id": 3994,
+          "name": "Frog Flipper"
+        },
+        {
+          "id": 3995,
+          "name": "Frog Gear"
+        },
+        {
+          "id": 3996,
+          "name": "Frog Webbing"
+        },
+        {
+          "id": 1860,
+          "name": "Jellyfish Diving Gear"
+        },
+        {
+          "id": 898,
+          "name": "Lightning Boots"
+        },
+        {
+          "id": 1861,
+          "name": "Arctic Diving Gear"
+        },
+        {
+          "id": 1862,
+          "name": "Frostspark Boots"
+        },
+        {
+          "id": 4874,
+          "name": "Hellfire Treads"
+        },
+        {
+          "id": 908,
+          "name": "Lava Waders"
+        },
+        {
+          "id": 5000,
+          "name": "Terraspark Boots"
+        },
+        {
+          "id": 1164,
+          "name": "Bundle of Balloons"
+        },
+        {
+          "id": 5331,
+          "name": "Bundle of Horseshoe Balloons"
+        },
+        {
+          "id": 1131,
+          "name": "Gravity Globe"
+        },
+        {
+          "id": 4989,
+          "name": "Soaring Insignia"
+        },
+        {
+          "id": 977,
+          "name": "Tabi"
+        },
+        {
+          "id": 984,
+          "name": "Master Ninja Gear"
+        },
+        "🛡️ Defense & survival",
+        {
+          "id": 49,
+          "name": "Band of Regeneration"
+        },
+        {
+          "id": 1290,
+          "name": "Panic Necklace"
+        },
+        {
+          "id": 216,
+          "name": "Shackle"
+        },
+        {
+          "id": 3223,
+          "name": "Brain of Confusion"
+        },
+        {
+          "id": 156,
+          "name": "Cobalt Shield"
+        },
+        {
+          "id": 1921,
+          "name": "Hand Warmer"
+        },
+        {
+          "id": 1132,
+          "name": "Honey Comb"
+        },
+        {
+          "id": 891,
+          "name": "Nazar"
+        },
+        {
+          "id": 193,
+          "name": "Obsidian Skull"
+        },
+        {
+          "id": 6188,
+          "name": "Restoration Shield"
+        },
+        {
+          "id": 3224,
+          "name": "Worm Scarf"
+        },
+        {
+          "id": 906,
+          "name": "Lava Charm"
+        },
+        {
+          "id": 1323,
+          "name": "Obsidian Rose"
+        },
+        {
+          "id": 6183,
+          "name": "Silver Shield"
+        },
+        {
+          "id": 6184,
+          "name": "Sweet Barb"
+        },
+        {
+          "id": 1578,
+          "name": "Sweetheart Necklace"
+        },
+        {
+          "id": 885,
+          "name": "Adhesive Bandage"
+        },
+        {
+          "id": 887,
+          "name": "Bezoar"
+        },
+        {
+          "id": 890,
+          "name": "Megaphone"
+        },
+        {
+          "id": 397,
+          "name": "Obsidian Shield"
+        },
+        {
+          "id": 904,
+          "name": "Countercurse Mantra"
+        },
+        {
+          "id": 3999,
+          "name": "Magma Skull"
+        },
+        {
+          "id": 902,
+          "name": "Medicated Bandage"
+        },
+        {
+          "id": 4038,
+          "name": "Molten Charm"
+        },
+        {
+          "id": 4004,
+          "name": "Obsidian Skull Rose"
+        },
+        {
+          "id": 4007,
+          "name": "Stinger Necklace"
+        },
+        {
+          "id": 4003,
+          "name": "Molten Skull Rose"
+        },
+        {
+          "id": 3781,
+          "name": "Pocket Mirror"
+        },
+        {
+          "id": 886,
+          "name": "Armor Polish"
+        },
+        {
+          "id": 1247,
+          "name": "Bee Cloak"
+        },
+        {
+          "id": 888,
+          "name": "Blindfold"
+        },
+        {
+          "id": 554,
+          "name": "Cross Necklace"
+        },
+        {
+          "id": 889,
+          "name": "Fast Clock"
+        },
+        {
+          "id": 535,
+          "name": "Philosopher's Stone"
+        },
+        {
+          "id": 532,
+          "name": "Star Cloak"
+        },
+        {
+          "id": 893,
+          "name": "Trifold Map"
+        },
+        {
+          "id": 892,
+          "name": "Vitamins"
+        },
+        {
+          "id": 901,
+          "name": "Armor Bracing"
+        },
+        {
+          "id": 6185,
+          "name": "Catalyst Band"
+        },
+        {
+          "id": 6187,
+          "name": "Crossed Heart Necklace"
+        },
+        {
+          "id": 6186,
+          "name": "Druidic Serpent Cloak"
+        },
+        {
+          "id": 3997,
+          "name": "Frozen Shield"
+        },
+        {
+          "id": 1253,
+          "name": "Frozen Turtle Shell"
+        },
+        {
+          "id": 3998,
+          "name": "Hero Shield"
+        },
+        {
+          "id": 4001,
+          "name": "Mana Cloak"
+        },
+        {
+          "id": 497,
+          "name": "Neptune's Shell"
+        },
+        {
+          "id": 5354,
+          "name": "Reflective Shades"
+        },
+        {
+          "id": 6180,
+          "name": "Seraph Necklace"
+        },
+        {
+          "id": 903,
+          "name": "The Plan"
+        },
+        {
+          "id": 1612,
+          "name": "Ankh Charm"
+        },
+        {
+          "id": 860,
+          "name": "Charm of Myths"
+        },
+        {
+          "id": 861,
+          "name": "Moon Shell"
+        },
+        {
+          "id": 6177,
+          "name": "Royal Guard's Harness"
+        },
+        {
+          "id": 862,
+          "name": "Star Veil"
+        },
+        {
+          "id": 1613,
+          "name": "Ankh Shield"
+        },
+        {
+          "id": 963,
+          "name": "Black Belt"
+        },
+        {
+          "id": 3337,
+          "name": "Shiny Stone"
+        },
+        {
+          "id": 3110,
+          "name": "Celestial Shell"
+        },
+        {
+          "id": 938,
+          "name": "Paladin's Shield"
+        },
+        "💥 Combat",
+        {
+          "id": 111,
+          "name": "Band of Starpower"
+        },
+        {
+          "id": 3308,
+          "name": "Black String"
+        },
+        {
+          "id": 3301,
+          "name": "Blue String"
+        },
+        {
+          "id": 3305,
+          "name": "Brown String"
+        },
+        {
+          "id": 3299,
+          "name": "Cyan String"
+        },
+        {
+          "id": 3297,
+          "name": "Green String"
+        },
+        {
+          "id": 3296,
+          "name": "Lime String"
+        },
+        {
+          "id": 982,
+          "name": "Mana Regeneration Band"
+        },
+        {
+          "id": 3294,
+          "name": "Orange String"
+        },
+        {
+          "id": 3304,
+          "name": "Pink String"
+        },
+        {
+          "id": 6165,
+          "name": "Poison Barb"
+        },
+        {
+          "id": 3302,
+          "name": "Purple String"
+        },
+        {
+          "id": 3307,
+          "name": "Rainbow String"
+        },
+        {
+          "id": 3293,
+          "name": "Red String"
+        },
+        {
+          "id": 3212,
+          "name": "Shark Tooth Necklace"
+        },
+        {
+          "id": 3300,
+          "name": "Sky Blue String"
+        },
+        {
+          "id": 5543,
+          "name": "Stress Ball"
+        },
+        {
+          "id": 3298,
+          "name": "Teal String"
+        },
+        {
+          "id": 3303,
+          "name": "Violet String"
+        },
+        {
+          "id": 3306,
+          "name": "White String"
+        },
+        {
+          "id": 3295,
+          "name": "Yellow String"
+        },
+        {
+          "id": 3245,
+          "name": "Bone Glove"
+        },
+        {
+          "id": 6166,
+          "name": "Harpy Charm"
+        },
+        {
+          "id": 3333,
+          "name": "Hive Pack"
+        },
+        {
+          "id": 1595,
+          "name": "Magic Cuffs"
+        },
+        {
+          "id": 211,
+          "name": "Feral Claws"
+        },
+        {
+          "id": 1322,
+          "name": "Magma Stone"
+        },
+        {
+          "id": 223,
+          "name": "Nature's Gift"
+        },
+        {
+          "id": 2219,
+          "name": "Celestial Magnet"
+        },
+        {
+          "id": 555,
+          "name": "Mana Flower"
+        },
+        {
+          "id": 6178,
+          "name": "Pyroclastic Stone"
+        },
+        {
+          "id": 3809,
+          "name": "Apprentice's Scarf"
+        },
+        {
+          "id": 2221,
+          "name": "Celestial Cuffs"
+        },
+        {
+          "id": 4000,
+          "name": "Magnet Flower"
+        },
+        {
+          "id": 3810,
+          "name": "Squire's Shield"
+        },
+        {
+          "id": 1158,
+          "name": "Pygmy Necklace"
+        },
+        {
+          "id": 1321,
+          "name": "Magic Quiver"
+        },
+        {
+          "id": 491,
+          "name": "Ranger Emblem"
+        },
+        {
+          "id": 1300,
+          "name": "Rifle Scope"
+        },
+        {
+          "id": 6157,
+          "name": "Snake Band"
+        },
+        {
+          "id": 489,
+          "name": "Sorcerer Emblem"
+        },
+        {
+          "id": 2998,
+          "name": "Summoner Emblem"
+        },
+        {
+          "id": 536,
+          "name": "Titan Glove"
+        },
+        {
+          "id": 490,
+          "name": "Warrior Emblem"
+        },
+        {
+          "id": 6182,
+          "name": "Wicked Claws"
+        },
+        {
+          "id": 3366,
+          "name": "Yoyo Bag"
+        },
+        {
+          "id": 3334,
+          "name": "Yoyo Glove"
+        },
+        {
+          "id": 3991,
+          "name": "Arcane Flower"
+        },
+        {
+          "id": 935,
+          "name": "Avenger Emblem"
+        },
+        {
+          "id": 3992,
+          "name": "Berserker's Glove"
+        },
+        {
+          "id": 2220,
+          "name": "Celestial Emblem"
+        },
+        {
+          "id": 3016,
+          "name": "Flesh Knuckles"
+        },
+        {
+          "id": 6172,
+          "name": "Heavy Sling"
+        },
+        {
+          "id": 3811,
+          "name": "Huntress's Buckler"
+        },
+        {
+          "id": 5541,
+          "name": "Magic Yoyo Bag"
+        },
+        {
+          "id": 4002,
+          "name": "Molten Quiver"
+        },
+        {
+          "id": 3812,
+          "name": "Monk's Belt"
+        },
+        {
+          "id": 900,
+          "name": "Moon Stone"
+        },
+        {
+          "id": 897,
+          "name": "Power Glove"
+        },
+        {
+          "id": 4005,
+          "name": "Recon Scope"
+        },
+        {
+          "id": 4006,
+          "name": "Stalker's Quiver"
+        },
+        {
+          "id": 936,
+          "name": "Mechanical Glove"
+        },
+        {
+          "id": 6181,
+          "name": "Phoenix Quiver"
+        },
+        {
+          "id": 3015,
+          "name": "Putrid Scent"
+        },
+        {
+          "id": 1865,
+          "name": "Celestial Stone"
+        },
+        {
+          "id": 1301,
+          "name": "Destroyer Emblem"
+        },
+        {
+          "id": 1248,
+          "name": "Eye of the Golem"
+        },
+        {
+          "id": 1343,
+          "name": "Fire Gauntlet"
+        },
+        {
+          "id": 1167,
+          "name": "Hercules Beetle"
+        },
+        {
+          "id": 6175,
+          "name": "Scout's Sling"
+        },
+        {
+          "id": 1858,
+          "name": "Sniper Scope"
+        },
+        {
+          "id": 3336,
+          "name": "Spore Sac"
+        },
+        {
+          "id": 899,
+          "name": "Sun Stone"
+        },
+        {
+          "id": 4987,
+          "name": "Volatile Gelatin"
+        },
+        {
+          "id": 6189,
+          "name": "Mystic Arts Sash"
+        },
+        {
+          "id": 1845,
+          "name": "Necromantic Scroll"
+        },
+        {
+          "id": 6162,
+          "name": "Ouroboros Ring"
+        },
+        {
+          "id": 1864,
+          "name": "Papyrus Scarab"
+        },
+        {
+          "id": 6176,
+          "name": "Templar's Sling"
+        },
+        "✨ Miscellaneous",
+        {
+          "id": 267,
+          "name": "Guide Voodoo Doll"
+        },
+        {
+          "id": 1307,
+          "name": "Clothier Voodoo Doll"
+        },
+        {
+          "id": 3068,
+          "name": "Guide to Plant Fiber Cordage"
+        },
+        {
+          "id": 5107,
+          "name": "Magiluminescence"
+        },
+        {
+          "id": 4341,
+          "name": "Step Stool"
+        },
+        {
+          "id": 3309,
+          "name": "Black Counterweight"
+        },
+        {
+          "id": 3310,
+          "name": "Blue Counterweight"
+        },
+        {
+          "id": 5100,
+          "name": "Bone Helm"
+        },
+        {
+          "id": 3311,
+          "name": "Green Counterweight"
+        },
+        {
+          "id": 1303,
+          "name": "Jellyfish Necklace"
+        },
+        {
+          "id": 3312,
+          "name": "Purple Counterweight"
+        },
+        {
+          "id": 3313,
+          "name": "Red Counterweight"
+        },
+        {
+          "id": 3090,
+          "name": "Royal Gel"
+        },
+        {
+          "id": 6156,
+          "name": "Silver Bracer"
+        },
+        {
+          "id": 3314,
+          "name": "Yellow Counterweight"
+        },
+        {
+          "id": 6167,
+          "name": "Snapping Stone"
+        },
+        {
+          "id": 5547,
+          "name": "Strung Counterweight"
+        },
+        {
+          "id": 6169,
+          "name": "Chaos Cylinder (Full)"
+        },
+        {
+          "id": 6193,
+          "name": "Chaos Cylinder (Random)"
+        },
+        {
+          "id": 6194,
+          "name": "Chaos Cylinder (Simple)"
+        },
+        {
+          "id": 3017,
+          "name": "Flower Boots"
+        },
+        {
+          "id": 5452,
+          "name": "FPV Goggles"
+        },
+        {
+          "id": 485,
+          "name": "Moon Charm"
+        },
+        {
+          "id": 6159,
+          "name": "Wicked Armlet"
+        },
+        {
+          "id": 6179,
+          "name": "Armlet Of Ruin"
+        },
+        {
+          "id": 6168,
+          "name": "Chaos Cylinder"
+        },
+        {
+          "id": 5355,
+          "name": "Chromatic Cloak"
+        },
+        {
+          "id": 3034,
+          "name": "Coin Ring"
+        },
+        {
+          "id": 854,
+          "name": "Discount Card"
+        },
+        {
+          "id": 3033,
+          "name": "Gold Ring"
+        },
+        {
+          "id": 855,
+          "name": "Lucky Coin"
+        },
+        {
+          "id": 5540,
+          "name": "Magic String"
+        },
+        {
+          "id": 4409,
+          "name": "Spectre Goggles"
+        },
+        {
+          "id": 6163,
+          "name": "Twilight Grasp"
+        },
+        {
+          "id": 3035,
+          "name": "Greedy Ring"
+        },
+        {
+          "id": 6158,
+          "name": "Mobius Strip"
+        },
+        {
+          "id": 5627,
+          "name": "Chippy's Cloak"
+        },
+        {
+          "id": 4730,
+          "name": "Ghostar's Infinity Eight"
+        },
+        {
+          "id": 3228,
+          "name": "Lazure's Barrier Platform"
+        },
+        {
+          "id": 4746,
+          "name": "Safeman's Blanket Cape"
+        },
+        {
+          "id": 3588,
+          "name": "Skiphs' Paws"
+        },
+        {
+          "id": 3580,
+          "name": "Yoraiz0r's Spell"
+        }
+      ]
     }
   ]
 }

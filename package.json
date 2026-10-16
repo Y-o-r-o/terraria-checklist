@@ -10,7 +10,8 @@
     "lint": "eslint \"src/**/*.{ts,tsx}\"",
     "format:check": "prettier --check \"src/**/*.{ts,tsx,scss}\"",
     "format": "prettier --write \"src/**/*.{ts,tsx,scss}\"",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "generate:gear": "node scripts/generate-gear.mjs"
   },
   "repository": {
     "type": "git",

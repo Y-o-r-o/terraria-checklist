@@ -41,13 +41,11 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Upload build artifact
+      - name: Upload Pages artifact
         if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: dist
           path: dist/
-          retention-days: 1
 
   deploy:
     name: Deploy
@@ -55,34 +53,12 @@ jobs:
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Download build artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: dist
-          path: dist/
-
-      - name: Deploy to ewauq.github.io
-        env:
-          DEPLOY_PAT: ${{ secrets.DEPLOY_PAT }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          git clone --depth 1 --branch master \
-            "https://x-access-token:${DEPLOY_PAT}@github.com/ewauq/ewauq.github.io.git" \
-            target-repo
-
-          rm -rf target-repo/terraria-checklist
-          mkdir -p target-repo/terraria-checklist
-          cp -r dist/* target-repo/terraria-checklist/
-
-          cd target-repo
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to deploy."
-          else
-            git commit -m "Deploy terraria-checklist from ${GITHUB_SHA::7}"
-            git push origin master
-          fi
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

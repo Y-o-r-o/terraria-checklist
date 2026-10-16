@@ -41,7 +41,10 @@ module.exports = {
       __BUILD_DATE__: JSON.stringify(new Date().toISOString().slice(0, 10)),
     }),
     new CopyWebpackPlugin({
-      patterns: [{ from: 'src/image', to: 'image' }],
+      patterns: [
+        { from: 'src/image', to: 'image' },
+        { from: 'src/data', to: 'data' },
+      ],
     }),
   ],
   output: {

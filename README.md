@@ -39,6 +39,14 @@ npm run build
 Then, push the content of the `dist` folder on your web server.
 
 
+## Updating weapons & accessories
+The **Weapons** and **Accessories** collections (recipes, drop chances, NPC locations, upgrade paths and icons) are generated from the [Terraria Wiki](https://terraria.wiki.gg/):
+```
+npm run generate:gear
+```
+It updates `database.json`, `src/data/gear.json` and `src/image/item/`.
+
+
 ## Features
 * Automatically re-compile CSS from SCSS files on save
 * Automatically copy assets to output folder on build
